@@ -13,8 +13,6 @@ The system chains two pretrained Transformer models into a single `multilingual_
 1. **Qwen2.5-0.5B-Instruct** generates a high-quality English answer to any NLP question
 2. **NLLB-200-Distilled-600M** translates that answer into French and Spanish
 
-No fine-tuning — both models are used off-the-shelf via Hugging Face Transformers.
-
 ---
 
 ## Models
